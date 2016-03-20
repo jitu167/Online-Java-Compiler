@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:columnCount="1" >
+
+    <EditText
+        android:id="@+id/editorText"
+        android:layout_width="match_parent"
+        android:layout_height="287dp"
+        android:layout_column="0"
+        android:layout_gravity="left|top"
+        android:layout_row="0"
+        android:ems="10"
+        android:inputType="textMultiLine" />
+
+    <Spinner
+        android:id="@+id/fileExtension"
+        android:layout_width="101dp"
+        android:layout_column="0"
+        android:layout_gravity="right|top"
+        android:layout_row="5" />
+
+    <Button
+        android:id="@+id/btnSave"
+        android:layout_column="0"
+        android:layout_width="111dp"
+        android:layout_gravity="left|center_vertical"
+        android:layout_row="6"
+        android:layout_marginTop="2dip"
+        android:text="Save" />
+
+    <EditText
+        android:id="@+id/filename"
+         android:layout_width="150dp"
+        android:layout_column="0"
+        android:layout_gravity="left|top"
+        android:layout_row="5"
+        android:ems="10" >
+
+          </EditText>
+    
+</GridLayout>
