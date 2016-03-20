@@ -1,0 +1,1 @@
+http://googleweblight.com/?lite_url=http://iamvijayakumar.blogspot.com/2014/05/android-slidingdrawer-with-viewpager.html&ei=McwuR-wg&lc=en-IN&s=1&m=85&ts=1436644238&sig=AKQ9UO80fIsx7x1oQ9_ZSZJ0RIDVQTyhsQ

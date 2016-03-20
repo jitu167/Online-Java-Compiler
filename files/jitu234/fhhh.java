@@ -1,0 +1,1 @@
+http://googleweblight.com/?lite_url=http://theopentutorials.com/tutorials/android/listview/android-custom-listview-with-image-and-text-using-baseadapter/&ei=Ld3Gvw_j&lc=en-IN&s=1&m=85&ts=1436797144&sig=AKQ9UO999TDz1Nln7nomTq7U_CDEl5yD6w
